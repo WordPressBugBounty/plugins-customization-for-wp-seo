@@ -3,7 +3,7 @@ Contributors: naa986
 Donate link: https://noorsplugin.com/customization-for-wp-seo-wordpress-plugin/
 Tags: seo, yoast, yoast seo, schema
 Requires at least: 3.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
